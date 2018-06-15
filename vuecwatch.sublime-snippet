@@ -2,9 +2,9 @@
 	<content><![CDATA[
 watch: {
   '${1:name}': (${2:val}, ${3:oldVal}) => {
-    ${4}
-  }
-}${5}
+    ${4};
+  },
+},${5}
 ]]></content>
 	<tabTrigger>vuecwatch</tabTrigger>
 	<scope>source.js</scope>

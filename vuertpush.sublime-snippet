@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+this.\$route.router.push(${1:objectOrString});
+]]></content>
+	<tabTrigger>vuertpush</tabTrigger>
+	<scope>source.js</scope>
+  <description>this.$route.router.push()</description>
+</snippet>

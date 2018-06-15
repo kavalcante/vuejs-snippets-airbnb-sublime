@@ -4,7 +4,7 @@ Vue.filter('${1:my-filter}', function (value) {
 
     ${2://content}
 
-})
+}),
 ]]></content>
 	<tabTrigger>vuef</tabTrigger>
 	<scope>Vue filter</scope>

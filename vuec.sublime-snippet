@@ -8,16 +8,17 @@ export default {
 
   name: '${1:${TM_FILENAME/(.+)\..+|.*/$1/:component_name}}',
 
-  data () {
+  data() {
     return {
 
-    }
-  }
-}
+    };
+  },
+};
 </script>
 
 <style lang="${2:css}" scoped>
 </style>
+
 ]]></content>
 	<tabTrigger>vuec</tabTrigger>
 	<scope>text.html.vue</scope>

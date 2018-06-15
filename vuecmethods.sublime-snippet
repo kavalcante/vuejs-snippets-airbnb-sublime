@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 methods: {
-  ${1:methodName} () {
+  ${1:methodName}() {
     ${2}
-  }
-}${3}
+  },
+},${3}
 ]]></content>
 	<tabTrigger>vuecmethods</tabTrigger>
 	<scope>source.js</scope>

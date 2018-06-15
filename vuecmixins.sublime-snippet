@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-mixins: [${1:mixin}]${2}
+mixins: [${1:mixin}]${2},
 ]]></content>
 	<tabTrigger>vuecmixins</tabTrigger>
 	<scope>source.js</scope>
