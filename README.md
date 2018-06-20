@@ -1,9 +1,9 @@
 # [Vue.js](http://vuejs.org/) Snippets for Sublime Text
-Snippets for Sublime Text with the key features of Vue.js
+Snippets for Sublime Text with the key features of Vue.js following Airbnb Styleguide instead Standard Styleguide as the original repo.
 
 ## Install
 1. Open [packagecontrol.io](packagecontro.io) - (<kbd>ctrl</kbd> or <kbd>⌘</kbd>) +  <kbd>⇧</kbd> + <kbd>p</kbd>
-2. Type "*Vuejs Snippets*"
+2. Type "*Vuejs Snippets Airbnnb*"
 3. :white_check_mark: Installed!
 
 ## Snippets
