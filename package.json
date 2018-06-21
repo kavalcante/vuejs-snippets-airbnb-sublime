@@ -1,6 +1,6 @@
 {
   "name": "vuejs-snippets-sublime",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Vuejs snippets for Sublime Text",
   "main": "vuejs",
   "repository": {
